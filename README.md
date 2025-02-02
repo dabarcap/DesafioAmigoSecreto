@@ -16,3 +16,8 @@ Fué desarrollado para practicar la lógica de programación aprendida en la for
    ```bash
    git clone https://github.com/tuusuario/amigo-secreto.git
    cd amigo-secreto
+2. **Abre el proyecto**:
+   Abre el archivo index.html en tu navegador web.
+3. **Agrega nombres**:
+   Escribe el nombre de un amigo en el campo de texto y haz clic en el botón "Añadir".
+   El nombre se agregará a la lista debajo del campo de entrada.
