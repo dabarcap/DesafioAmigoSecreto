@@ -58,4 +58,4 @@ Fué desarrollado para practicar la lógica de programación aprendida en la for
 
 ## 
 
-¡Gracias por usar Amigo Secreto! Esperamos que disfrutes de la aplicación y que te sea útil para tus sorteos de amigos secretos. 🎉
+🎉 ¡Gracias por usar Amigo Secreto! Esperamos que disfrutes de la aplicación y que te sea útil para tus sorteos de amigos secretos. 🎉
