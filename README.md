@@ -1,6 +1,6 @@
 # Desafío Amigo Secreto
 
-¡Bienvenido al proyecto **Amigo Secreto**! Esta es una aplicación web simple que permite a los usuarios agregar nombres de amigos a una lista y luego realizar un sorteo aleatorio para seleccionar un "amigo secreto".
+¡Bienvenido al proyecto **Amigo Secreto**! Esta es una aplicación web simple que permite a los usuarios agregar nombres de amigos a una lista y luego realizar un sorteo aleatorio para seleccionar un "amigo secreto".<br>
 Fué desarrollado para practicar la lógica de programación aprendida en la formación "Principiante en Programación" en Alura Latam.
 
 ## Características principales
@@ -16,8 +16,8 @@ Fué desarrollado para practicar la lógica de programación aprendida en la for
    ```bash
    git clone https://github.com/tuusuario/amigo-secreto.git
    cd amigo-secreto
-2. **Abre el proyecto**:
+2. **Abre el proyecto**:<br>
    Abre el archivo index.html en tu navegador web.
-3. **Agrega nombres**:
-   Escribe el nombre de un amigo en el campo de texto y haz clic en el botón "Añadir".
+3. **Agrega nombres**:<br>
+   Escribe el nombre de un amigo en el campo de texto y haz clic en el botón "Añadir".<br>
    El nombre se agregará a la lista debajo del campo de entrada.
