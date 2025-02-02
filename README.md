@@ -37,9 +37,10 @@ Fué desarrollado para practicar la lógica de programación aprendida en la for
 **CSS**: Para los estilos y el diseño.<br>
 **JavaScript**: Para la lógica de la aplicación y la interacción con el usuario.
 
-##Contribuciones
+## Contribuciones
 
 ¡Las contribuciones son bienvenidas! Si tienes alguna idea para mejorar el proyecto, no dudes en hacer un fork del repositorio y enviar un pull request.
 
+## 
 
 ¡Gracias por usar Amigo Secreto! Esperamos que disfrutes de la aplicación y que te sea útil para tus sorteos de amigos secretos.
